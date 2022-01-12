@@ -1,0 +1,4 @@
+2022-01-12T12:28:12+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes), em /srv/esbmorgbr.2d215d0b.configr.cloud/www/wp-content/themes/Divi/includes/builder/class-et-builder-element.php, na linha 22293
+
+2022-01-12T12:35:13+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes), em /srv/esbmorgbr.2d215d0b.configr.cloud/www/wp-content/themes/Divi/includes/builder/class-et-builder-element.php, na linha 22293
+
